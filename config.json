@@ -1,0 +1,16 @@
+{
+  "screen_width": 1200,
+  "screen_height": 700,
+  "panel_left_width": 720,
+  "water_rise_speed": 18,
+  "water_slow_duration": 10,
+  "water_slow_factor": 0.3,
+  "drone_speed": 4,
+  "wind_strength": 2.0,
+  "lightning_interval_min": 1.5,
+  "lightning_interval_max": 4.0,
+  "high_score": 33,
+  "coins": 2,
+  "drone_speed_bonus": 3,
+  "energy_max_bonus": 2
+}
